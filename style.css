@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  border: 1px solid blanchedalmond;
+  /* border: 1px solid blanchedalmond; */
 }
 
 body {
@@ -9,7 +9,7 @@ body {
 }
 
 .main-header {
-  background: rgb(250, 241, 235);
+  /* background: rgb(250, 241, 235); */
   width: 85%;
   margin: 0 0 0 auto;
   position: relative;
@@ -65,7 +65,7 @@ body {
   height: 100%;
   position: fixed;
   z-index: -1;
-  background-size: cover;
+  background-size: 100% 100%;
 }
 
 a > img {
